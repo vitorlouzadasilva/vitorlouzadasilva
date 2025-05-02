@@ -63,7 +63,7 @@ Vamos manter contato! Encontre-me em:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorlouzada/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-MeuSite-FF5722?style=for-the-badge&logo=chrome&logoColor=white)](https://www.vitorlouzada.com.br)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:projetos@vitorlouzada.com.br)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor@vitorlouzada.com.br)
 
 ---
 
