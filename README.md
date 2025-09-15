@@ -6,7 +6,7 @@ Bem-vindo ao meu espaço no GitHub! Sou um profissional de tecnologia com uma jo
 
 ### Sobre Mim
 
-🚀 Profissional multidisciplinar com **mais de 10 anos de experiência** no desenvolvimento e implementação de sistemas web. Minha trajetória é marcada pela busca por soluções eficientes e pela constante evolução técnica.
+🚀 Profissional multidisciplinar com **mais de 15 anos de experiência** no desenvolvimento e implementação de sistemas web. Minha trajetória é marcada pela busca por soluções eficientes e pela constante evolução técnica.
 
 💡 Possuo um background sólido como **Bacharel em Administração**, o que me proporciona uma visão estratégica e de negócio que complementa minhas habilidades técnicas na identificação e resolução de problemas complexos.
 
