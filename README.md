@@ -53,7 +53,7 @@ Minhas ferramentas e áreas de conhecimento incluem:
 * Formação Profissional em Administração de Banco de Dados
 * Formação Profissional em Programador WEB
 * Pós-Graduado em Ciência de Dados e Big Data Analytics 
-* Pós-Graduado em Segurança da Informação (Cursando)
+* Pós-Graduado em Segurança da Informação 
 
 ---
 
