@@ -52,8 +52,8 @@ Minhas ferramentas e áreas de conhecimento incluem:
 * Bacharel em Administração
 * Formação Profissional em Administração de Banco de Dados
 * Formação Profissional em Programador WEB
-* Pós-Graduação em Ciência de Dados e Big Data Analytics (Cursando)
-* Pós-Graduação em Segurança da Informação (Cursando)
+* Pós-Graduado em Ciência de Dados e Big Data Analytics 
+* Pós-Graduado em Segurança da Informação (Cursando)
 
 ---
 
