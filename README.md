@@ -1,70 +1,68 @@
-# Olá, eu sou Vitor Louzada da Silva  👋
+# Olá, eu sou Vitor Louzada! 👋
 
-Bem-vindo ao meu espaço no GitHub! Sou um profissional de tecnologia com uma jornada diversificada, unindo experiência sólida em desenvolvimento web com uma busca contínua por conhecimento em áreas emergentes e críticas.
+**Engenheiro de Software Full Stack Sênior | PHP • Laravel • MySQL • APIs RESTful • Modernização de sistemas**
 
----
+Sou desenvolvedor de software com **mais de 15 anos de experiência** na construção, evolução e sustentação de sistemas web. Atuo do levantamento de requisitos à implantação em produção, conectando decisões técnicas às necessidades reais de cada negócio.
 
-### Sobre Mim
+Sou fundador da **VL Nexus** e tenho formação em Administração, com pós-graduações concluídas em **Segurança da Informação** e **Ciência de Dados e Big Data Analytics**. Essa combinação orienta minha atuação em desenvolvimento, integração de sistemas, dados e segurança de aplicações.
 
-🚀 Profissional multidisciplinar com **mais de 15 anos de experiência** no desenvolvimento e implementação de sistemas web. Minha trajetória é marcada pela busca por soluções eficientes e pela constante evolução técnica.
+## 💻 Áreas de atuação
 
-💡 Possuo um background sólido como **Bacharel em Administração**, o que me proporciona uma visão estratégica e de negócio que complementa minhas habilidades técnicas na identificação e resolução de problemas complexos.
+- **Desenvolvimento web:** aplicações corporativas, sistemas sob medida, portais e produtos SaaS.
+- **Modernização de legados:** evolução de aplicações PHP, organização de código, arquitetura MVC e melhoria da manutenibilidade.
+- **APIs e integrações:** serviços RESTful, automação de processos e integração entre plataformas, incluindo rotinas fiscais.
+- **Dados e performance:** modelagem relacional, otimização de consultas SQL, relatórios e dashboards operacionais.
+- **Segurança e entrega:** autenticação, controle de permissões, auditoria, boas práticas de AppSec e implantação em ambientes Linux.
 
-📚 Atualmente, estou aprofundando meus conhecimentos através de duas pós-graduações:
-* **Ciência de Dados e Big Data Analytics:** Focado em transformar grandes volumes de dados em insights acionáveis e construir soluções baseadas em inteligência analítica.
-* **Segurança da Informação:** Dedicado a projetar e implementar sistemas robustos e seguros, protegendo dados e infraestruturas contra ameaças cibernéticas.
+## 🛠️ Tecnologias e ferramentas
 
-🛠️ Possuo expertise comprovada na **criação de soluções web escaláveis, análise de dados e desenvolvimento de sistemas seguros e robustos**.
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🎯 Busco ativamente contribuir para projetos desafiadores que demandem **inovação, inteligência analítica e uma forte liderança técnica**, aplicando as melhores práticas de desenvolvimento e segurança.
+**Back-end e arquitetura:** PHP 8.x, Laravel, Composer, PSR-4, MVC, APIs RESTful e integrações.
 
----
+**Front-end:** JavaScript, jQuery, HTML, CSS, Bootstrap e Tailwind CSS.
 
-### Linguagens & Tecnologias
+**Banco de dados e automação:** MySQL, MariaDB, SQL, Python, Pandas e NumPy.
 
-Aqui estão algumas das linguagens e tecnologias com as quais trabalho:
+**Infraestrutura e qualidade:** Git, Docker, Linux, Nginx/Apache, testes, autenticação, permissões e auditoria.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+**Em desenvolvimento:** React, Next.js e TypeScript — experiência prática em projetos de estudo e desafios técnicos, ainda sem entregas profissionais nessas tecnologias.
 
----
+## 🚀 Experiência e projetos
 
-### Conhecimentos e Ferramentas
+### Soluções profissionais
 
-Minhas ferramentas e áreas de conhecimento incluem:
+- **NexusClínica | VL Nexus:** modernização de um sistema de gestão clínica com mais de dez anos em produção, evoluindo sua base para PHP 8.3, MVC, Composer/PSR-4 e PDO.
+- **Integração fiscal | VL Nexus:** automação de emissão, consulta, download e cancelamento de NFS-e via API FocusNFe, conectada ao faturamento de convênios.
+- **Projetos corporativos | Arco Websites & e-Commerce:** desenvolvimento e sustentação de soluções para a conferência internacional IALA com a Marinha do Brasil, SENAC-ES, OAB-ES e outras instituições.
 
-* Git & GitHub para controle de versão e colaboração
-* Docker para conteinerização e ambientes isolados
-* Visual Studio (ou Visual Studio Code) como meu IDE principal
-* Utilização de ferramentas baseadas em IA como GitHub Copilot e Google Code Assistant para otimização do fluxo de trabalho
-* Princípios de Administração de Banco de Dados (complementando minha formação)
-* Melhores práticas em Programação Web
-* Técnicas de Scrum e Kanban para desenvolvimento ágil
+### Repositórios públicos
 
----
+- **[Wallet Challenge — PHP / Laravel](https://github.com/vitorlouzadasilva/wallet-challenge-php):** desafio técnico de carteira digital, com operações financeiras, regras de negócio e testes.
+- **[Wallet Challenge — Node / Next.js](https://github.com/vitorlouzadasilva/wallet-challenge-node):** desafio técnico de carteira digital utilizando Next.js, TypeScript e banco de dados relacional.
+- **[Base Project — PHP](https://github.com/vitorlouzadasilva/base-project):** estrutura de referência para aplicações PHP com orientação a objetos, PDO e Composer.
 
-### Formação & Certificações
+> A maior parte dos sistemas comerciais em que atuei possui código privado ou protegido por compromissos de confidencialidade. Meu portfólio reúne mais informações sobre essa experiência.
 
-* Bacharel em Administração
-* Formação Profissional em Administração de Banco de Dados
-* Formação Profissional em Programador WEB
-* Pós-Graduado em Ciência de Dados e Big Data Analytics 
-* Pós-Graduado em Segurança da Informação 
+## 🎓 Formação
 
----
+- **Pós-graduação em Segurança da Informação** — UNASP (2026)
+- **Pós-graduação em Ciência de Dados e Big Data Analytics** — UNASP (2026)
+- **Bacharelado em Administração de Empresas** — Centro Universitário São Camilo
 
-### Conecte-se Comigo
+## 🤝 Vamos conversar?
 
-Vamos manter contato! Encontre-me em:
+Tenho interesse em **oportunidades remotas de desenvolvimento de software (CLT ou PJ)**, projetos e colaborações técnicas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorlouzada/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-MeuSite-FF5722?style=for-the-badge&logo=chrome&logoColor=white)](https://www.vitorlouzada.com.br)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor@vitorlouzada.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorlouzada/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0F2D3C?style=flat-square&logo=googlechrome&logoColor=white)](https://www.vitorlouzada.com.br/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vitor@vitorlouzada.com.br)
 
----
-
-✨ Feito com dedicação e aprendizado!
+*Tecnologia bem aplicada começa por entender o problema que precisa ser resolvido.*
