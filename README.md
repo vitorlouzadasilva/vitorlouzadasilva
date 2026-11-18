@@ -35,6 +35,22 @@ Sou fundador da **VL Nexus** e tenho formação em Administração, com pós-gra
 
 **Em desenvolvimento:** React, Next.js e TypeScript — experiência prática em projetos de estudo e desafios técnicos, ainda sem entregas profissionais nessas tecnologias.
 
+## 🤖 Engenharia de Software Assistida por IA
+
+Integro **LLMs e agentes de codificação** ao meu fluxo de desenvolvimento para ampliar a produtividade, apoiar decisões técnicas e otimizar a qualidade das entregas.
+
+Utilizo ferramentas como **GitHub Copilot, OpenAI Codex, Claude Code e Google Antigravity**, em ambientes **VS Code, IDE e CLI**, aplicadas a diferentes etapas da engenharia de software:
+
+- **Desenvolvimento e refatoração:** implementação de funcionalidades, análise de código legado, identificação de melhorias e modernização de aplicações.
+- **Arquitetura e planejamento:** apoio à análise de requisitos, avaliação de alternativas técnicas e organização de soluções.
+- **Testes e qualidade:** elaboração de cenários de teste, identificação de problemas e revisão de código.
+- **Documentação:** criação de especificações técnicas, registros de decisões arquiteturais e documentação de projetos.
+- **Produtividade:** automação de tarefas repetitivas e aceleração de fluxos de desenvolvimento.
+
+**Minha abordagem:** utilizo inteligência artificial como ferramenta de apoio à engenharia, mantendo a responsabilidade pelas decisões técnicas, validação do código, segurança e qualidade das entregas.
+
+Acredito que a combinação entre **experiência profissional, pensamento crítico e ferramentas modernas de IA** permite desenvolver soluções com maior eficiência, sem abrir mão das boas práticas de engenharia de software.
+
 ## 🚀 Experiência e projetos
 
 ### Soluções profissionais
